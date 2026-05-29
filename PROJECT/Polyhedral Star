@@ -1,0 +1,12 @@
+This project highlights the modeling of an advanced, multi-pointed geometric
+structure generated within the parametric CAD environment of Onshape, as visualized in STAR.
+Representing a complex exercise in three-dimensional symmetry and spatial reasoning, the design consists
+of a compound polyhedral stellation. Multiple faceted star-like prisms intersect at a single, centralized core, 
+demonstrating advanced CAD modeling proficiency through the seamless 
+merger of overlapping solid bodies without visual gaps.
+To achieve this level of geometric intricacy, the design heavily relies on custom reference planes and
+multi-axis patterning tools. Each individual spike features sharp, tapers that converge from a broad base to a crisp vertex,
+accentuated by defined chamfered edge boundaries that enhance the model's visual depth. By establishing precise angular
+offsets and using circular patterning features around a shared origin, perfect mathematical symmetry was maintained across
+the X, Y, and Z axes. This project serves as an excellent demonstration of complex boolean operations, 
+surface angling, and advanced feature duplication techniques within Onshape.
